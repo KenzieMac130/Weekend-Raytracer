@@ -34,12 +34,15 @@ Yes... this might take me more than a week... There are bugs and I'm not good at
 - [X] Generic Material
 - [X] Metal
 - [ ] Glass (Needs fixing)
+- [X] Emission
 - [X] Denoiser Implimentation
 - [ ] Dynamic Camera (Needs fixing)
 - [ ] Defocus
 - [ ] Random Scene
 - [ ] Scene Loader
 - [ ] Scene Creator
+- [ ] Triangle Meshes
+- [ ] Textures
 
 ## Known issues
 * Planes don't appear outside indirect lighting
