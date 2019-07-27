@@ -49,9 +49,9 @@ Yes... this is taking me more than a weekend... There are bugs and I'm not good 
 - [ ] Textures
 
 ## Known issues
-* Planes don't appear outside indirect lighting
-* Glasss lacks fresnel
-* Dynamic camera has math issues
+* Planes don't appear outside of indirect lighting... for some reason
+* Glasss lacks fresnel... and pretty much all physical acuracy
+* Dynamic camera yeets into another plane of existence
 * Has only been tested on Windows x64 with MSVC
 
 ## Original Book/Author
