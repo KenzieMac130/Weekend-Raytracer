@@ -13,7 +13,8 @@ Yes... this is taking me more than a weekend... There are bugs and I'm not good 
 3. Check/Uncheck optional features and provide a working path to their dependencies
 4. Generate the project with your' IDE/Compiler of choice
 5. Compile the generated project
-6. Report the inevitable bugs to the Github Issues page.
+6. Marvel at a static image of spheres
+7. Report the inevitable bugs to the Github Issues page
 
 ## Pre-Requisites
 * A C99 Compatible Compiler (at-least recent MSVC's level of support)
