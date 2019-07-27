@@ -39,6 +39,7 @@ Yes... this is taking me more than a weekend... There are bugs and I'm not good 
 - [ ] Glass (Needs fixing)
 - [X] Emission
 - [X] Denoiser Implimentation
+- [X] Tone-mapping
 - [ ] Dynamic Camera (Needs fixing)
 - [ ] Defocus
 - [ ] Random Scene
