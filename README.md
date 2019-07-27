@@ -5,7 +5,7 @@
 
 Check https://github.com/astrand130/Weekend-Raytracer/releases for pre-compiled builds
 
-Yes... this might take me more than a week... There are bugs and I'm not good at math...
+Yes... this is taking me more than a week... There are bugs and I'm not good at math...
 
 ## How to Build
 1. Clone this repository to your' PC
