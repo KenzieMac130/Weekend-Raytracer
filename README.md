@@ -1,6 +1,8 @@
 # WeekendRaytracer
 ![Test Render](https://github.com/astrand130/Weekend-Raytracer/blob/master/_media/Media1.png?raw=true)
 
+Check https://github.com/astrand130/Weekend-Raytracer/releases for pre-compiled builds
+
 ## How to Build
 1. Clone this repository to your' PC
 2. Open the local folder with CMake as the source directory
