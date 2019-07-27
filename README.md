@@ -15,6 +15,7 @@ Yes... this is taking me more than a weekend... There are bugs and I'm not good 
 5. Compile the generated project
 6. Marvel at a static image of spheres
 7. Report the inevitable bugs to the Github Issues page
+8. Watch in awe as nothing gets fixed
 
 ## Pre-Requisites
 * A C99 Compatible Compiler (at-least recent MSVC's level of support)
